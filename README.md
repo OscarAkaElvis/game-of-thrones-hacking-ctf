@@ -1,6 +1,8 @@
-# Game of Thrones Hacking CTF (coming soon)
+# Game of Thrones Hacking CTF v1.0 (coming soon)
 
 > This is game-challenge to measure your hacking skills. Set in Game of Thrones fantasy world.
+
+![Banner]
 
 **Goal**:
 
@@ -50,6 +52,9 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
  - Óscar Alfonso ([OscarAkaElvis] or [v1s1t0r])
  - Contact: [v1s1t0r.1s.h3r3@gmail.com]
  - Thanks to the beta testers, specially to j0n3, Kal3l and masAcre
+
+
+[Banner]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-banner.png "Game of Thrones CTF"
 
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
