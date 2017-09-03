@@ -44,3 +44,12 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
 	|  |  | .'|     | -_|  | . |  _|    | | |   |  _| . |   | -_|_ -|
 	|_____|__,|_|_|_|___|  |___|_|      |_| |_|_|_| |___|_|_|___|___|
 --------------------------------------
+
+**Designed by/Credits**
+
+ - Óscar Alfonso ([OscarAkaElvis] or [v1s1t0r])
+ - Contact: [v1s1t0r.1s.h3r3@gmail.com]
+ - Thanks to the beta testers, specially to j0n3, Kal3l and masAcre
+
+[OscarAkaElvis]: https://github.com/OscarAkaElvis
+[v1s1t0r]: https://github.com/v1s1t0r1sh3r3
