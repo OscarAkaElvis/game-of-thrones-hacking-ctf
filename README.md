@@ -1,6 +1,6 @@
 # Game of Thrones Hacking CTF (coming soon)
 
-> This is game-challenge to measure your hacking skills. Set in Game of Thrones fantasy world.
+> This is a challenge-game to measure your hacking skills. Set in Game of Thrones fantasy world.
 
 ![Banner]
 
@@ -13,8 +13,8 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
  - Start your conquer of the seven kingdoms
  - You'll need hacking skills, no Game of Thrones knowledge is required. But if you play, it may contains spoilers of the TV series
  - Difficulty of the CTF: Medium-High
- - Don't forget to take your map (try to find it). It will guide you about the natural flag order to follow
- - Listen CAREFULLY to the hints
+ - Don't forget to take your map (try to find it). It will guide you about the natural flag order to follow over the kingdoms
+ - Listen CAREFULLY to the hints. If you are stuck, read the hints again!
  - Powerful fail2ban spells were cast everywhere. Bruteforce is not an option for this CTF (2 minutes ban penalty)
  - The flags are 32 chars strings. Keep'em all! you'll need them
 
@@ -54,8 +54,15 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
  - Thanks to the beta testers, specially to j0n3, Kal3l and masAcre
  - Version 1.0 (September 2017)
 
+**Screenshots**
 
-[Banner]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-banner.png "Game of Thrones CTF"
+![Screenshot1]
+
+![Screenshot2]
+
+[Banner]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-banner.png "Game of Thrones CTF - Winter is coming!"
+[Screenshot1]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-screenshot1.png
+[Screenshot2]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-screenshot1.png
 
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
