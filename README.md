@@ -62,7 +62,7 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
 
 [Banner]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-banner.png "Game of Thrones CTF - Winter is coming!"
 [Screenshot1]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-screenshot1.png
-[Screenshot2]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-screenshot1.png
+[Screenshot2]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-screenshot2.png
 
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
