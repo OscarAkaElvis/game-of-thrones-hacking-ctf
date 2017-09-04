@@ -1,4 +1,4 @@
-# Game of Thrones Hacking CTF v1.0 (coming soon)
+# Game of Thrones Hacking CTF (coming soon)
 
 > This is game-challenge to measure your hacking skills. Set in Game of Thrones fantasy world.
 
@@ -22,7 +22,7 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
 
  - Import the Linux based CTF challenge virtual machine (OVA file)
  - OVA file is compatible with Oracle Virtualbox and Vmware
- - The challenge vm needs 1512mb RAM to work properly
+ - The challenge vm needs 1 cpu and 1512mb RAM to work properly
  - The challenge vm has its network configured by default as bridge. It will take an IP from the DHCP of your network
 
 **Downloading challenge CTF vm**:
@@ -52,6 +52,7 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
  - Óscar Alfonso ([OscarAkaElvis] or [v1s1t0r])
  - Contact: [v1s1t0r.1s.h3r3@gmail.com]
  - Thanks to the beta testers, specially to j0n3, Kal3l and masAcre
+ - Version 1.0 (September 2017)
 
 
 [Banner]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-banner.png "Game of Thrones CTF"
