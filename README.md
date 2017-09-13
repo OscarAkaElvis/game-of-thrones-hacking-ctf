@@ -17,6 +17,7 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
  - Listen CAREFULLY to the hints. If you are stuck, read the hints again!
  - Powerful fail2ban spells were cast everywhere. Bruteforce is not an option for this CTF (2 minutes ban penalty)
  - The flags are 32 chars strings. Keep'em all! you'll need them
+ - It's supossed that you don't have physical access to the machine. Don't try to cheat. The challenge is to hack it through the network services
 
 **Requirements/starting guide**:
 
