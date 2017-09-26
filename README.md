@@ -28,6 +28,12 @@ Get the 7 kingdom flags and the 4 extra content flags (3 secret flags + final ba
 
 **Downloading challenge CTF vm**:
 
+_File information_:
+ - File size: 2.33Gb
+ - MD5: ee5d6c1f8dfbbf95d51b9be354bc3504
+ - SHA1: 4672eefa5714d45889f2c982344b4d8f94c915e3
+
+_Download links_:
  - [Download Link 1] (Mega)
  - [Mirror 1] (Dropbox)
 
