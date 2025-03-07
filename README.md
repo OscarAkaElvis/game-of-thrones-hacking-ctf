@@ -35,7 +35,7 @@ _File information_:
 
 _Download links_:
  - [Download Link 1] (Mega)
- - [Mirror 1] (Dropbox)
+ - [Download Link 2] (Vulnhub)
 
 **Troubleshooting**
 
@@ -73,7 +73,7 @@ _Download links_:
 [Screenshot2]: https://raw.githubusercontent.com/OscarAkaElvis/game-of-thrones-hacking-ctf/master/imgs/ctf-screenshot2.png
 
 [Download Link 1]: https://mega.nz/#!EcgHBB4b!UvbxukV_Po0BOALwqyzxqdpxSfPkIzuxiNqEEVgDy8Q
-[Mirror 1]: https://www.dropbox.com/s/q3cv44rm61yella/Game%20of%20Thrones%20CTF%201.0.ova?dl=0
+[Download Link 2]: https://download.vulnhub.com/gameofthrones/Game-of-Thrones-CTF-1.0.ova
 
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
